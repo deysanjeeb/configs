@@ -8,6 +8,7 @@ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sou
 }
 sudo apt update
 sudo apt-get install touchegg zsh -y
+chsh -s $(which zsh)
 command -v curl > /dev/null || {
     echo "Installing curl"
     sudo apt-get install curl
