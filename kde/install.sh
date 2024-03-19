@@ -10,6 +10,7 @@ sudo apt update
 sudo apt-get install touchegg zsh flatpak param-y
 
 chsh -s $(which zsh)
+
 command -v curl > /dev/null || {
     echo "Installing curl"
     sudo apt-get install curl
