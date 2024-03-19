@@ -1,0 +1,14 @@
+[/home/skd/.local/share/plasma-vault/nosee.enc]
+activities=
+backend=cryfs
+lastError=Unknown device (code: 1)
+lastStatus=2
+mountPoint=/home/skd/Vaults/nosee
+name=nosee
+offlineOnly=false
+
+[EncryptedDevices]
+/home/skd/.local/share/plasma-vault/nosee.enc=true
+
+[UI-notice]
+SkipNotice-cryfs-message=false

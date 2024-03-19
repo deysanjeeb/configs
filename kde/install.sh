@@ -7,7 +7,8 @@ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sou
     sudo apt-get install sublime-text -y
 }
 sudo apt update
-sudo apt-get install touchegg zsh -y
+sudo apt-get install touchegg zsh flatpak param-y
+
 chsh -s $(which zsh)
 command -v curl > /dev/null || {
     echo "Installing curl"

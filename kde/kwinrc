@@ -6,17 +6,23 @@ OpenGLIsUnsafe=false
 
 [Desktops]
 Id_1=4fac5069-ad76-4c6a-859a-07ae519644c1
-Id_2=5e15747a-38a3-4b46-8f99-2df284a23a59
-Id_3=c4744157-0c7a-44a3-8edb-ac8168527dcd
-Id_4=668a285f-be91-4936-b881-268803fc416e
-Number=4
+Id_2=c4744157-0c7a-44a3-8edb-ac8168527dcd
+Id_3=07c2baac-cb7d-4fa2-8607-971f0324275a
+Id_4=6f35501a-ce27-45c2-9258-95819e226dcc
+Id_5=6b79db8e-3a8d-4d99-9d5e-235e01d7c2d7
+Name_4=Desktop 2
+Name_5=Desktop 4
+Number=5
 Rows=1
+
+[ModifierOnlyShortcuts]
+Meta=org.kde.kglobalaccel,/component/kwin,org.kde.kglobalaccel.Component,invokeShortcut,Overview
 
 [NightColor]
 Active=true
 LatitudeAuto=37.3257
 LongitudeAuto=-120.4999
-NightTemperature=2900
+NightTemperature=3700
 
 [org.kde.kdecoration2]
 BorderSize=None

@@ -1,0 +1,72 @@
+[Desktop Entry]
+FullScreen=false
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Documents/VoteRegisterunsec.pdf,file:$HOME/Documents/VoteRegisterunsec.pdf
+Recent URLs[$e]=file:$HOME/Documents/
+detailViewIconSize=16
+
+[MainWindow]
+:0.0 Height 1920x1080=512
+:0.0 Width 1920x1080=960
+:0.0 XPosition 1920x1080=960
+:0.0 YPosition 1920x1080=28
+HDMI-2 Height 3840x2160=1052
+HDMI-2 Height 4096x2160=1052
+HDMI-2 Width 3840x2160=1920
+HDMI-2 Width 4096x2160=2048
+HDMI-2 XPosition 3840x2160=768
+HDMI-2 XPosition 4096x2160=0
+HDMI-2 YPosition 3840x2160=446
+HDMI-2 YPosition 4096x2160=1108
+HDMI-2 eDP-1 Window-Maximized 3840x2160=true
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPyAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP-1 DP-1 Height 1920x1080=320
+eDP-1 DP-1 Width 1920x1080=426
+eDP-1 DP-1 Window-Maximized 640x480=true
+eDP-1 DP-1 XPosition 1920x1080=605
+eDP-1 DP-1 YPosition 1920x1080=605
+eDP-1 HDMI-2 Height 1920x1080=512
+eDP-1 HDMI-2 Height 4096x2160=1052
+eDP-1 HDMI-2 Width 1920x1080=960
+eDP-1 HDMI-2 Width 4096x2160=2048
+eDP-1 HDMI-2 Window-Maximized 1920x1080=true
+eDP-1 HDMI-2 XPosition 1920x1080=480
+eDP-1 HDMI-2 XPosition 4096x2160=0
+eDP-1 HDMI-2 YPosition 1920x1080=298
+eDP-1 HDMI-2 YPosition 4096x2160=1108
+eDP-1 Height 1920x1080=1052
+eDP-1 Width 1920x1080=1920
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 XPosition 1080x1920=180
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition 1080x1920=398
+eDP-1 YPosition 1920x1080=28
+
+[Print Preview]
+eDP-1 Height 1920x1080=500
+eDP-1 Width 1920x1080=600
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Blood Test.pdf
+File10[$e]=$HOME/Documents/UC Merced/DL/DL_a1.pdf
+File2[$e]=$HOME/Downloads/UCI - SOP - Swarnalata ( Fall 2024 ) (1).pdf
+File3[$e]=$HOME/Calibre Library/Steven Shi/Apartments.com scrape (23)/Apartments.com scrape - Steven Shi.pdf
+File4[$e]=$HOME/Documents/UC Merced/RL/(Adaptive Computation and Machine Learning series) Richard S. Sutton, Andrew G. Barto - Reinforcement Learning, second edition_ An Introduction (Solutions) (Instructor's Solution Manual)-Bradford Book.pdf
+File5[$e]=$HOME/Documents/Candidate Results _ Your Results.pdf
+File6[$e]=$HOME/Workspace/sktime/CONTRIBUTORS.md
+File7[$e]=$HOME/Documents/Tech_Resume.pdf
+File8[$e]=$HOME/Documents/UC Merced/CC/pap_pre.pdf
+File9[$e]=$HOME/Documents/UC Merced/RL/Reinforcement Learning BartoSutton.pdf
+Name1[$e]=Blood Test.pdf
+Name10[$e]=DL_a1.pdf
+Name2[$e]=UCI - SOP - Swarnalata ( Fall 2024 ) (1).pdf
+Name3[$e]=Apartments.com scrape - Steven Shi.pdf
+Name4[$e]=(Adaptive Computation and Machine Learning series) Richard S. Sutton, Andrew G. Barto - Reinforcement Learning, second edition_ An Introduction (Solutions) (Instructor's Solution Manual)-Bradford Book.pdf
+Name5[$e]=Candidate Results _ Your Results.pdf
+Name6[$e]=CONTRIBUTORS.md
+Name7[$e]=Tech_Resume.pdf
+Name8[$e]=pap_pre.pdf
+Name9[$e]=Reinforcement Learning BartoSutton.pdf

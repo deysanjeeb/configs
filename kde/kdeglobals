@@ -136,11 +136,12 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
-DirSelectDialog Size=844,598
-History Items[$e]=file:$HOME/Books,file:$HOME/Books
+DirSelectDialog Size=980,600
+History Items[$e]=file:$HOME/Documents,file:$HOME/Books,file:$HOME/Books
 
 [General]
 BrowserApplication=google-chrome.desktop
+ColorScheme=BreezeDark
 ColorSchemeHash=bcce7c1c6181c5e14e633cd8301e7a9036b67ac6
 
 [KDE]
@@ -159,11 +160,17 @@ Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
 Show hidden files=false
-Sort by=Name
+Sort by=Date
 Sort directories first=true
-Sort reversed=false
+Sort reversed=true
 Speedbar Width=138
 View Style=DetailTree
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[Shortcuts]
+Quit=
 
 [WM]
 activeBackground=49,54,59

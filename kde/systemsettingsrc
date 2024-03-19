@@ -1,0 +1,39 @@
+[KFileDialog Settings]
+Recent Files[$e]=nl-free-115093.protonvpn.udp.ovpn,file:$HOME/Downloads/nl-free-115093.protonvpn.udp.ovpn
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+HDMI-2 Height 3840x2160=1052
+HDMI-2 Width 3840x2160=1920
+HDMI-2 XPosition 3840x2160=1920
+HDMI-2 XPosition 4096x2160=1853
+HDMI-2 YPosition 3840x2160=1108
+HDMI-2 YPosition 4096x2160=253
+HDMI-2 eDP-1 XPosition 4096x2160=450
+HDMI-2 eDP-1 YPosition 4096x2160=204
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 DP-1 Height 1920x1080=700
+eDP-1 DP-1 Width 1920x1080=1020
+eDP-1 DP-1 XPosition 1920x1080=528
+eDP-1 DP-1 YPosition 1920x1080=646
+eDP-1 HDMI-2 Height 1920x1080=700
+eDP-1 HDMI-2 Width 1920x1080=1020
+eDP-1 HDMI-2 XPosition 1920x1080=4546
+eDP-1 HDMI-2 YPosition 1920x1080=204
+eDP-1 Height 1080x1920=932
+eDP-1 Height 1920x1080=700
+eDP-1 Width 1080x1920=540
+eDP-1 Width 1920x1080=1401
+eDP-1 XPosition 1920x1080=259
+eDP-1 YPosition 1920x1080=204
+
+[Open-with settings]
+CompletionMode=1
+History=tou
+
+[systemsettings_sidebar_mode]
+HighlightNonDefaultSettings=true

@@ -1,0 +1,46 @@
+[DetailsMode]
+PreviewSize=22
+
+[ExtractDialog]
+DirHistory[$e]=$HOME/Documents/UC Merced/CAD/Project 1/bencg_og/,$HOME/Downloads/IIT drive/
+eDP-1 Height 1920x1080=560
+eDP-1 Width 1920x1080=1280
+
+[General]
+Version=201
+ViewPropsTimestamp=2023,8,19,21,54,10.608
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/IIT drive/,file:$HOME/Documents/UC Merced/CAD/Project 1/bencg_og/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+HDMI-2 Height 4096x2160=464
+HDMI-2 Width 4096x2160=386
+eDP-1 Height 1920x1080=458
+eDP-1 Width 1920x1080=373
+
+[MainWindow]
+HDMI-2 Height 3840x2160=1412
+HDMI-2 Height 4096x2160=997
+HDMI-2 Width 3840x2160=1920
+HDMI-2 Width 4096x2160=1245
+HDMI-2 XPosition 3840x2160=1810
+HDMI-2 XPosition 4096x2160=493
+HDMI-2 YPosition 3840x2160=231
+HDMI-2 YPosition 4096x2160=380
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1 HDMI-2 Height 1920x1080=1052
+eDP-1 HDMI-2 Width 1920x1080=1920
+eDP-1 Height 1080x1920=706
+eDP-1 Height 1920x1080=997
+eDP-1 Width 1080x1920=1080
+eDP-1 Width 1920x1080=1245
+eDP-1 XPosition 1920x1080=569
+eDP-1 YPosition 1920x1080=83
+
+[Open-with settings]
+CompletionMode=1
+History=

@@ -1,0 +1,8 @@
+[FileDialogSize]
+eDP-1 Height 1920x1080=600
+eDP-1 Width 1920x1080=980
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/yosemite.png,file:$HOME/Workspace/test.png,file:$HOME/Workspace/RL_lab/lab4/main.py,file:$HOME/Documents/Tech_Resume.pdf,file:$HOME/Documents/draw.drawio,file:$HOME/Downloads/Letter of Interest (Sanjeeb Dey).pdf,file:$HOME/Downloads/EECS_230_project_report.pdf,file:$HOME/Documents/LLM finetune/2311.11045.pdf,file:$HOME/Documents/LLM finetune/2305.14314.pdf,file:$HOME/Documents/LLM finetune/2106.09685.pdf,file:$HOME/Downloads/RL_a2(Sanjeeb Dey).pdf,file:$HOME/Pictures/Screenshot_20240305_200059.png,file:$HOME/Pictures/Screenshot_20240304_202427.png,file:$HOME/Pictures/Screenshot_20240304_201854.png,file:$HOME/Pictures/Screenshot_20240304_200726.png,file:$HOME/Pictures/Screenshot_20240303_230907.png
+Recent URLs[$e]=file:$HOME/Workspace/RL-gambler/,file:$HOME/Workspace/MonteCarloGambler/,file:$HOME/,file:$HOME/Workspace/,file:$HOME/Documents/IIT-M/,file:$HOME/Downloads/,file:$HOME/Pictures/,file:$HOME/Documents/,file:$HOME/Documents/LLM finetune/,file:$HOME/Workspace/RL_lab/lab4/
+detailViewIconSize=16
