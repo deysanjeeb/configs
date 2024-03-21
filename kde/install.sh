@@ -6,15 +6,4 @@ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sou
     sudo apt update
     sudo apt-get install sublime-text -y
 }
-sudo apt update
-sudo apt-get install touchegg zsh flatpak param-y
 
-chsh -s $(which zsh)
-
-
-command -v curl > /dev/null || {
-    echo "Installing curl"
-    sudo apt-get install curl
-}
-echo "Installing oh-my-zsh"
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
